@@ -3,8 +3,6 @@ docker-compose.yml for running hapi-fhir server from https://github.com/hapifhir
 
 To run hapi-fhir:<br />
 <p>On Docker Desktop/toolbox:<br />
-```
-docker-compose up -d --build
-```
-  On web browser:<br />
-    Access http://localhost:8080/hapi-fhir-jpaserver/<br />
+<p><p>docker-compose up -d --build
+<p>On web browser:<br />
+<p><p>Access http://localhost:8080/hapi-fhir-jpaserver/<br />
