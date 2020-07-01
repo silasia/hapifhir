@@ -1,5 +1,4 @@
-# hapifhir
-docker-compose.yml for running hapi-fhir server from https://github.com/hapifhir/hapi-fhir-jpaserver-starter.git
+# Running the HAPI-FHIR server on Docker
 
 On Docker Desktop/toolbox, run:
 ```
